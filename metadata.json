@@ -1,0 +1,6 @@
+{
+  "name": "HYROX Coach Penang",
+  "description": "Official HYROX Training Coach in Penang, Malaysia. Comprehensive race preparation, personalized coaching packages in RM, and WhatsApp onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
